@@ -102,7 +102,7 @@ python .\setup_models.py
 
 ---
 
-# ▶️ Run the App
+#  Run the App
 
 ```powershell
 python .\main.py
