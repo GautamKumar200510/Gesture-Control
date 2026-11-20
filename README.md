@@ -217,7 +217,7 @@ This project helps students understand:
 
 ---
 
-# 📸 Demo Idea
+#  Demo Idea
 
 Use this project during:
 
