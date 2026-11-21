@@ -17,7 +17,7 @@ to detect hand gestures and convert them into presentation controls like:
 
 ---
 
-# 🚀 Features
+# Features
 
 ✅ Control Google Slides using gestures
 ✅ Real-time hand tracking using AI
