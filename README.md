@@ -27,7 +27,7 @@ to detect hand gestures and convert them into presentation controls like:
 
 ---
 
-# 🧠 Gesture Controls
+#  Gesture Controls
 
 | Gesture          | Action          |
 | ---------------- | --------------- |
