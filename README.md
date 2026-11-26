@@ -38,7 +38,7 @@ to detect hand gestures and convert them into presentation controls like:
 
 ---
 
-# 🛠️ Technologies Used
+# Technologies Used
 
 * Python
 * OpenCV
