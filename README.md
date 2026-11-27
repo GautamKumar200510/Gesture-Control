@@ -47,7 +47,7 @@ to detect hand gestures and convert them into presentation controls like:
 
 ---
 
-# 📦 Installation
+#  Installation
 
 ## Step 0 - Ensure Python is installed
 
